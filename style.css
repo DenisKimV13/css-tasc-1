@@ -1,0 +1,59 @@
+img{
+    margin-right: 50px;
+    width: 400px;
+    height: 522px;
+}
+th{
+    text-align: left;
+}
+h4{
+    font-weight: lighter;
+}
+.p2{
+    font-weight: lighter;
+}
+.b1{
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    background-color: #255A9B;
+    color: white;
+}
+.b2{
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    background-color: #0076B6;
+    color: white;
+}
+.b3{
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    background-color: #0076B6;
+    color: white;
+}
+.r1{
+    font-weight: lighter;
+    height: 40px;
+}
+.i1{
+    height: 100px;
+}
+.i2{
+    font-weight: lighter;
+    height: 40px;
+}
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./barlow/Barlow-Thin.otf);
+}
+h3{
+    font-family: 'Barlow', sans-serif;
+}
+h4, .b1, .b2, .b3, textarea, .r1, .i1, .i2{
+    font-family: 'Barlow', sans-serif;
+    font-weight: lighter;
+}
